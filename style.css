@@ -33,6 +33,7 @@ body{
     box-shadow: 0 0 1rem #3c3c3c;
     font-size: 8vmin;
     color: red;
+    background-color: #ffffc7;
 }
 #reset{
     padding: 1rem;
