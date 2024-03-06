@@ -45,8 +45,26 @@ body{
     border: none;
     margin: 0 auto;
 }
-
-
+#new{
+    padding: 1rem;
+    width: fit-content;
+    font-size: 1.25rem;
+    background-color: black;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+    margin: 0 auto;
+}
+#msg{
+    color: #ffffc7;
+    font-size: 8vmin;
+}
+.msg-container{
+    height: 30vmin;
+}
+.hide{
+    display: none;
+}
 
 
 
